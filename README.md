@@ -116,17 +116,17 @@ Contains hooks to:
 <tr>
 
 <td align="center" style="padding: 10px;">
-<img src="path/to/screenshot-home.png" alt="Homepage Screenshot" width="100%">
+<img src="ScreenShots/homepage.png" alt="Homepage Screenshot" width="100%">
 <br><strong>🏠 Homepage (front-page.php)</strong>
 </td>
 
 <td align="center" style="padding: 10px;">
-<img src="path/to/screenshot-shop-archive.png" alt="Shop Archive Page" width="100%">
+<img src="ScreenShots/shop.png" alt="Shop Archive Page" width="100%">
 <br><strong>🛒 Shop Page (archive-product.php)</strong>
 </td>
 
 <td align="center" style="padding: 10px;">
-<img src="path/to/screenshot-single-product.png" alt="Single Product Page" width="100%">
+<img src="ScreenShots/single-product.png" alt="Single Product Page" width="100%">
 <br><strong>📦 Single Product (single-product.php)</strong>
 </td>
 
@@ -137,11 +137,11 @@ Contains hooks to:
 
 ## 📝 Author
 
-**Your Name**  
+**Karan Bhanushali**  
 WordPress & WooCommerce Developer  
 
-🔗 Portfolio: *your link here*  
-🔗 LinkedIn: *your link here*
+🔗 Portfolio: [*https://karanbhanushali-portfolio-cms.netlify.app/*](https://karanbhanushali-portfolio-cms.netlify.app/)  
+🔗 LinkedIn: [*https://www.linkedin.com/in/karan-bhanushali/*](https://www.linkedin.com/in/karan-bhanushali/)
 
 ---
 
